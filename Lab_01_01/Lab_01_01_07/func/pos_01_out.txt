@@ -1,0 +1,6 @@
+The value of x: 
+The value of eps: 
+s(x) is: 0.051235                                                                                                                           
+f(x) is: 0.909297                                                                                                                           
+|f(x)-s(x)| is: 0.858063                                                                                                                    
+|(f(x)-s(x))/f(x)| is: 0.943655  

@@ -1,0 +1,4 @@
+Enter coordinates: 
+First point: 
+Second point: 
+Third point: 

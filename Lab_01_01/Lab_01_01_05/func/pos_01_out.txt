@@ -1,0 +1,4 @@
+Input a: 
+Input d: 
+Result: 10 
+Remain: 0

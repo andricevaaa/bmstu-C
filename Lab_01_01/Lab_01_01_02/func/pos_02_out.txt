@@ -1,0 +1,1 @@
+Enter the bigger side: Enter the shorter side: Enter the angle in degrees: The area of trapezoid is 346.410162

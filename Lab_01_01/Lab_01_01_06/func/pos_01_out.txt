@@ -1,0 +1,5 @@
+Enter coordinates: 
+First point: 
+Second point: 
+Third point: 
+Area of the triangle: 40.000000
